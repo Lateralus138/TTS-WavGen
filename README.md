@@ -2,8 +2,8 @@
 TTS WavGen is a program that uses AutoHotkey to generate a VBScript that converts text to speech in Windows wav format.
 
 ## Current Release
-[TTS WavGen 32 Bit](https://github.com/Lateralus138/TTS-WavGen/releases/download/1.12.22.17/TTS.WavGen.32bit.exe)
-[TTS WavGen 64 Bit](https://github.com/Lateralus138/TTS-WavGen/releases/download/1.12.22.17/TTS.WavGen.64bit.exe)
+[TTS WavGen 32 Bit](https://github.com/Lateralus138/TTS-WavGen/releases/download/1.12.22.17/TTS.WavGen.32bit.exe)<br />
+[TTS WavGen 64 Bit](https://github.com/Lateralus138/TTS-WavGen/releases/download/1.12.22.17/TTS.WavGen.64bit.exe)<br />
 [Release Page - Source Files](https://github.com/Lateralus138/TTS-WavGen/releases/latest)
 
 ## Example Code - method I use to convert text to speech.
